@@ -1,0 +1,65 @@
+
+        set=N               rng=nodemaps!B2       rdim=1
+        set=P               rng=nodemaps!D60      rdim=1
+        set=W               rng=nodemaps!D37:D57  rdim=1
+
+        set=prall           rng=nodemaps!E4       rdim=1
+        set=trgen           rng=nodemaps!E37:E57  rdim=1
+        set=co              rng=nodemaps!F37:F57  rdim=1
+        set=coo             rng=nodemaps!F37:F56  rdim=1
+        set=Liqn            rng=nodemaps!I4       rdim=1
+        set=Regn            rng=nodemaps!L4       rdim=1
+        set=storall         rng=nodemaps!M37      rdim=1
+
+        par=PS_EUCO         rng=PS_EUCO!B5      cdim=1 rdim=1
+        par=PS_ST           rng=PS_ST!B5        cdim=1 rdim=1
+        par=PS_DG           rng=PS_DG!B5        cdim=1 rdim=1
+
+        par=LTC         rng=LTC_M!B2          rdim=2 cdim=2
+        par=TOP         rng=scalars!D30       dim=0
+
+        par=stor_cost_in    rng=scalars!C4  dim=0
+        par=stor_cost_out   rng=scalars!C5  dim=0
+        par=stor_loss       rng=scalars!B10 cdim=0 rdim=1
+        par=SlevelF         rng=scalars!I4  dim=0
+        par=SlevelL         rng=scalars!I5  dim=0
+
+        Par=distance        Rng=NTC!A25:V45      Cdim=1 Rdim=1
+
+        set=lng_p           rng=nodemaps!P4      rdim=1
+        set=eu_p            rng=nodemaps!D132    rdim=1
+        par=exp_eu_cut      rng=nodemaps!H132    rdim=2
+
+        par=prod_to_node    rng=nodemaps!D60    rdim=2
+        par=ws_to_home      rng=nodemaps!H37    rdim=2
+        par=ws_to_cons      rng=nodemaps!E37    rdim=2
+        par=ws_to_stor      rng=nodemaps!M37    rdim=1
+        par=reg_to_trans    rng=nodemaps!L4     rdim=2
+        par=prod_to_liq     rng=nodemaps!H60    rdim=2
+
+        par=LP_prod_table   rng=prod_cost_gas!A60   rdim=2 cdim=2
+
+        par=transCap        rng=cap.pipeREFm!c3     cdim=1 rdim=1
+        par=extra_cap       rng=cap.pipeREFm!C66    rdim=2 cdim=2
+        par=transMC         rng=MTCref!c3           cdim=1 rdim=1
+
+        par=cons_EUCO      rng=Dem_EUCO30!b30       cdim=2 rdim=1
+        par=cons_ST        rng=Dem_ST!b30           cdim=2 rdim=1
+        par=cons_DG        rng=Dem_DG!b30           cdim=2 rdim=1
+
+        par=stor_cons_cap   rng=StorRef!B29         cdim=2 rdim=1
+        par=stor_min_obl    rng=StorRef!AB6         cdim=0 rdim=1
+        par=stor_cons_in    rng=StorRef!B54         cdim=2 rdim=1
+        par=stor_cons_out   rng=StorRef!B79         cdim=2 rdim=1
+
+        set=i               Rng=Technology!A4    Cdim=0 Rdim=1
+        Par=techup          Rng=Technology!A1    Cdim=3 Rdim=1
+        Par=genup           Rng=Capacity!A1      Cdim=3 Rdim=2
+        Par=timeup          Rng=ElDemTS!A1      Cdim=3 Rdim=1
+        Par=RESup           Rng=RESdata!A1       Cdim=2 Rdim=1
+        Par=nodeup          Rng=Country!A1       Cdim=3 Rdim=1
+        Par=co2_price_upload Rng=Technology!L23   Cdim=1 Rdim=1
+        Par=ntc             Rng=NTC!A1           Cdim=2 Rdim=1
+        Par=ntc_dist        Rng=NTC!A48:T69      Cdim=1 Rdim=1
+        Par=heat_factor     Rng=time!H2          Cdim=1 Rdim=1
+
