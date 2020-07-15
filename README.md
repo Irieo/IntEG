@@ -11,4 +11,5 @@ Energy modelling, energy systems analysis, sector coupling, stochastic programmi
 ### DOI: 
 []
 
-### Note: result files are not uploaded to github due to limits on individual file size and on repository in general. The code reproduces the benchmarks from the paper.
+### The code reproduces the benchmarks from the paper. 
+Note that result files are not uploaded to github due to limits on individual file size and on repository in general. 
