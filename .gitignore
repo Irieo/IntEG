@@ -1,0 +1,10 @@
+ **/.lst
+**/.lxi
+**/.log
+**/.~gm
+*.log
+*.lst
+*.lxi
+*.tmp
+*.~gm
+**/results_v20/Analysis/
