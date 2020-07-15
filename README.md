@@ -4,12 +4,12 @@
 
 > abstract
 
-### Keywords
+### Keywords:
 Energy modelling, energy systems analysis, sector coupling, stochastic programming, uncertainty.
-### JEL Classification
+### JEL Classification:
 []
 ### DOI: 
 []
 
-### The code reproduces the benchmarks from the paper. 
+### The code reproduces the benchmarks from the paper 
 Note that result files are not uploaded to github due to limits on individual file size and on repository in general. 
