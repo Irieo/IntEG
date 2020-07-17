@@ -13,3 +13,12 @@ C61, D81, Q4
 
 ### The code reproduces the benchmarks from the paper 
 Note that model output files are not uploaded to github due to limits on individual file size and on repository size in general. 
+
+### Citing us
+
+If you use IntEG model or some components for your research, we would appreciate it if you
+would cite the following paper:
+```
+[working paper to appear]
+[juornal paper in review]
+```
