@@ -16,7 +16,7 @@ Note that model output files are not uploaded to github due to limits on individ
 
 ### Citing us
 
-If you use IntEG model or some components for your research, we would appreciate it if you
+If you use IntEG model or its components for your research, we would appreciate it if you
 would cite the following paper:
 ```
 [working paper to appear]
