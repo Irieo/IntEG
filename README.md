@@ -20,5 +20,5 @@ If you use IntEG model or some components for your research, we would appreciate
 would cite the following paper:
 ```
 [working paper to appear]
-[juornal paper in review]
+[journal paper in review]
 ```
