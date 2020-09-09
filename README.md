@@ -1,4 +1,5 @@
-# Input data and source code for the paper "Combining uncertainty with electricity and gas sector coupling — is it worth the effort?"
+# Input data and source code for the paper "Modelling uncertainty in coupled electricity and gas system models—is it worth the effort?"
+A title of the working paper: "Combining uncertainty with electricity and gas sector coupling — is it worth the effort?"
 
 ### Riepin, I., Möbius, T., Müsgens, F. (2020). in review.
 
