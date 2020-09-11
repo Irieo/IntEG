@@ -23,8 +23,8 @@ would cite us as follows:
 ```
 This paper is in review. The reference to the working paper version is as follows:
 
-@misc{riepin2020combining,
-    title={Combining uncertainty with electricity and gas sector coupling -- is it worth the effort?},
+@misc{riepin2020modelling,
+    title={Modelling uncertainty in coupled electricity and gas systems -- is it worth the effort?},
     author={Iegor Riepin and Thomas Möbius and Felix Müsgens},
     year={2020},
     eprint={2008.07221},
