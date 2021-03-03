@@ -21,14 +21,16 @@ The IntEG model is free: you can access, modify and share it under the terms of 
 If you use the model or its components for your research, we would appreciate it if you
 would cite us as follows:
 ```
-This paper is in review. The reference to the working paper version is as follows:
-
-@misc{riepin2020modelling,
-    title={Modelling uncertainty in coupled electricity and gas systems -- is it worth the effort?},
-    author={Iegor Riepin and Thomas Möbius and Felix Müsgens},
-    year={2020},
-    eprint={2008.07221},
-    archivePrefix={arXiv},
-    primaryClass={q-fin.GN}
+@article{RIEPIN2021116363,
+title = {Modelling uncertainty in coupled electricity and gas systems—Is it worth the effort?},
+journal = {Applied Energy},
+volume = {285},
+pages = {116363},
+year = {2021},
+issn = {0306-2619},
+doi = {https://doi.org/10.1016/j.apenergy.2020.116363},
+url = {https://www.sciencedirect.com/science/article/pii/S0306261920317426},
+author = {Iegor Riepin and Thomas Möbius and Felix Müsgens},
+keywords = {Energy modelling, Energy systems analysis, Sector coupling, Stochastic programming, Uncertainty},
 }
 ```
