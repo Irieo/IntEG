@@ -1,6 +1,6 @@
 # Input data and source code for the paper "Modelling uncertainty in coupled electricity and gas system models—is it worth the effort?"
 
-### Riepin, I., Möbius, T., Müsgens, F. (2020). in review.
+### Riepin, I., Möbius, T., Müsgens, F. (2020). Applied Energy
 
 > The interdependence of electricity and natural gas markets is becoming a major topic in energy research. Integrated energy models are used to assist decision-making for businesses and policymakers addressing challenges of energy transition and climate change. The analysis of complex energy systems requires large-scale models, which are based on extensive databases, intertemporal dynamics and a multitude of decision variables. Integrating such energy system models results in increased system complexity. This complexity poses a challenge for energy modellers to address multiple uncertainties that affect both markets. Stochastic optimisation approaches enable an adequate consideration of uncertainties in investment and operation planning; however, stochastic modelling of integrated large-scale energy systems further scales the level of complexity. In this paper, we combine integrated and stochastic optimisation problems and parametrise our model for European electricity and gas markets. We analyse and compare the impact of uncertain input parameters, such as gas and electricity demand, renewable energy capacities and fuel and CO2 prices, on the quality of the solution obtained in the integrated optimisation problem. Our results quantify the value of encoding uncertainty as a part of a model. While the methodological contribution should be of interest for energy modellers, our findings are relevant for industry experts and stakeholders with an empirical interest in the European energy system.
 
@@ -9,7 +9,7 @@ Energy modelling, energy systems analysis, sector coupling, stochastic programmi
 ### JEL Classification:
 C61, D81, Q4
 ### Links: 
-[Working paper at arXiv.org](https://arxiv.org/abs/2008.07221)
+[Applied Energy | Volume 285, 1 March 2021](https://doi.org/10.1016/j.apenergy.2020.116363)
 
 ### The code reproduces the benchmarks from the paper 
 Note that model output files are not uploaded to github due to limits on individual file size and on repository size in general. 
